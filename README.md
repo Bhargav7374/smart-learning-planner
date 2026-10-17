@@ -1,5 +1,7 @@
 # Smart Learning Planner AI
 
+🚀 **Live Demo:** [Open Smart Learning Planner](https://smart-learning-planner-ai.streamlit.app)
+
 **An adaptive study-planning application built to help students organise their preparation, prioritise subjects, and plan study sessions around exam deadlines.**
 
 Smart Learning Planner AI combines a rule-based scheduling engine with a web interface and a PostgreSQL database. Students can manage their subjects, track confidence and difficulty, and generate study schedules based on their available time.
